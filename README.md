@@ -8,6 +8,7 @@ const Tomi = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [ReactJS, Redux, Node, Styled-Components, MaterialUI],
+  location: "Cordoba, Arg"
   challenge: "I am doing the #JavaScript30 challenge focused on JavaScript Vanilla"
 }
 ```
