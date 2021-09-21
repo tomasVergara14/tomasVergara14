@@ -7,7 +7,7 @@ FrontEnd web developer
 const Tomi = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React JS, Redux, Node, Styled-Components, Material UI],
+  tools: [ReactJS, Redux, Node, Styled-Components, MaterialUI],
   challenge: "I am doing the #JavaScript30 challenge focused on JavaScript Vanilla"
 }
 ```
