@@ -7,6 +7,7 @@ FrontEnd web developer
 
 ```javascript
 const Tomi = {
+
   pronouns: "he" | "him",
   
   code: [Javascript, HTML, CSS],
