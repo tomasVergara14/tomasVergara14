@@ -13,6 +13,7 @@ const Tomi = {
 }
 ```
 
+#### I would love for us to work together
 
 - 👀 LinkedIn: https://www.linkedin.com/in/tomasvergara/
 - 📫 How to reach me: vergaratomas2020@gmail.com
