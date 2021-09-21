@@ -3,7 +3,7 @@
 FrontEnd web developer 
 
 
->>const Tomi = { 
+>const Tomi = { 
 >>
 >>​	pronouns: "he" | "him",
 >>
@@ -13,7 +13,7 @@ FrontEnd web developer
 >>
 >>​	challenge: "I am doing the #JavaScript30 challenge focused on JavaScript Vanilla"
 >>
->>}
+>}
 
 
 - 👀 LinkedIn: https://www.linkedin.com/in/tomasvergara/
