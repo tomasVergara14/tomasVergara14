@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, my name is Tomi 👋
 
-<!--
-**tomasVergara14/tomasVergara14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FrontEnd web developer 
 
-Here are some ideas to get you started:
+const Tomi = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React JS, Redux, Node, Styled-Components, Material UI],
+  challenge: "I am doing the #JavaScript30 challenge focused on JavaScript Vanilla"
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👀 LinkedIn: https://www.linkedin.com/in/tomasvergara/
+- 📫 How to reach me: mailto:vergaratomas2020@gmail.com
+
